@@ -6,6 +6,8 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using kicsivaros_0602.Models;
+using kicsivaros_0602.Models.DataAccess;
+using kicsivaros_0602.Models.DataAccess.Entities;
 
 namespace kicsivaros_0602
 {

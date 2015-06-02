@@ -11,6 +11,8 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using kicsivaros_0602.Models;
+using kicsivaros_0602.Models.DataAccess.Entities;
+using kicsivaros_0602.Models.DataAccess;
 
 namespace kicsivaros_0602
 {
